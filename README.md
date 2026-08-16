@@ -2,7 +2,9 @@
 
 Senior Software Test Engineer | QA Automation Architect | CI/CD Quality Advocate
 
-I’m a Software Test Engineer with 8+ years of experience building scalable automation solutions for enterprise web applications. I specialize in automation framework design, CI/CD integration, accessibility testing, and improving long-term test maintainability.
+I’m a Software Test Engineer with 10+ years of experience in software testing, including 4+ years of professional test automation experience. I’ve been testing complex web applications since 2015 and have focused professionally on automation since 2022, primarily using Python and Selenium.
+
+I enjoy solving problems around test automation, CI/CD, accessibility, and maintainability, and I’m particularly interested in learning more about automation framework design and test infrastructure. My recent projects explore how to build tools that make automation easier for other testers to learn, adopt, and extend.
 
 🔗 GitHub: m-farial
 
