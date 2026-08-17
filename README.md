@@ -1,6 +1,6 @@
 👋 Hi, I'm Farial M.
 
-Senior Software Test Engineer | QA Automation Architect | CI/CD Quality Advocate
+Senior Software Test Engineer | Test Automation | Quality Engineering
 
 I’m a Software Test Engineer with 10+ years of experience in software testing, including 4+ years of professional test automation experience. I’ve been testing complex web applications since 2015 and have focused professionally on automation since 2022, primarily using Python and Selenium.
 
