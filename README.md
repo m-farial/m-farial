@@ -8,14 +8,14 @@ I enjoy solving problems around test automation, CI/CD, accessibility, and maint
 
 🔗 GitHub: m-farial
 
-💼 LinkedIn: linkedin.com/in/mfarial
+💼 LinkedIn: [linkedin.com/in/mfarial](https://www.linkedin.com/in/mfarial/)
 
 🧠 About Me
 
-🏗️ Designed and implemented a modular automation framework using Python, Selenium WebDriver, and Dataclasses (POM architecture)
-🚀 Integrated automated integration tests directly into GitLab CI/CD and Bitbucket Pipelines, preventing late-stage defects and improving build reliability.
-🧪 Embedded QA early in Agile development lifecycles, identifying testing gaps and strengthening requirements traceability using Jira + Xray.
-♿ Contributed to web accessibility compliance efforts, helping ensure alignment with WCAG standards using tools like WAVE, NVDA, and Accessibility Insights.
+-  🏗️ Designed and implemented a modular automation framework using Python, Selenium WebDriver, and Dataclasses (POM architecture)
+-  🚀 Integrated automated integration tests directly into GitLab CI/CD and Bitbucket Pipelines, preventing late-stage defects and improving build reliability.
+-  🧪 Embedded QA early in Agile development lifecycles, identifying testing gaps and strengthening requirements traceability using Jira + Xray.
+-  ♿ Contributed to web accessibility compliance efforts, helping ensure alignment with WCAG standards using tools like WAVE, NVDA, and Accessibility Insights.
 
 🛠️ Tech Stack
 Programming:	Python
@@ -34,12 +34,20 @@ A scalable, CI-ready automation framework using Pytest + POM + Dataclasses, feat
 🔹 pytest-a11y
 A pytest plugin for automated accessibility testing powered by axe-core, featuring rich HTML/JSON reports, visual violation screenshots, parallel-safe execution, and seamless integration with any Selenium-based test suite.
 
-📈 Quality Engineering Focus
-Automation Architecture & Reusability
-CI/CD Test Integration
-Early Defect Detection at Merge-Request Level
-Requirements Traceability & Governance
-Sustainable Test Design for Enterprise Systems
+📖 Development Journey
+
+How did these projects evolve from an idea into reusable testing tools?
+
+I started with a goal of making automation easier for testers to learn and adopt. Along the way, I explored framework architecture, pytest plugin development, accessibility automation, CI/CD, reporting, parallel execution, dependency management, and AI-assisted development.
+
+[Read my development journey](https://github.com/m-farial/m-farial/blob/main/My_Development_Journey.md) 
+
+🌱 Currently Exploring
+Test infrastructure and reusable automation tools
+Pytest plugin development
+Accessibility automation
+Better test observability and debugging
+AI-assisted software development
 
 💬 Let’s Connect
 
